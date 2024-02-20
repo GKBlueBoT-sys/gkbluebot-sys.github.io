@@ -108,7 +108,8 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  line-height:1;
+  line-height:1.2
+  ;
 }
 
 header ul {
@@ -137,7 +138,7 @@ header li:last-child a {
 }
 
 header ul a {
-  line-height:1;
+  line-height:1.2;
   font-size:11px;
   color:#999;
   display:block;
@@ -229,7 +230,8 @@ footer {
     top:52px;
   }
   header p {
-  margin: 0; 
+    margin: 0;
+    line-height: 1.2;
   }
 
 }
