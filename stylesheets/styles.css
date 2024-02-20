@@ -119,6 +119,7 @@ header ul {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
+  line-height:0.5;
 }
 
 header li {
@@ -126,6 +127,7 @@ header li {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+  line-height:0.5;
 }
 
 header li:first-child a {
@@ -137,7 +139,7 @@ header li:last-child a {
 }
 
 header ul a {
-  line-height:1;
+  line-height:0.5;
   font-size:11px;
   color:#999;
   display:block;
@@ -173,7 +175,7 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:20px;
 }
 
 small {
